@@ -11,4 +11,4 @@ print("hihi")
 end_time = time.time()
 
 # 시간 측정
-print(end_time-start_time)
+print(end_time - start_time)
